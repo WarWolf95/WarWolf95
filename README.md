@@ -4,6 +4,7 @@ Data Analyst & BI Developer based in London, United Kingdom.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-WarWolf95-181717?style=flat&logo=github)](https://github.com/WarWolf95)
+[![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-warwolf95.github.io-3B82F6?style=flat&logo=googlechrome&logoColor=white)](https://warwolf95.github.io)
 [![Location](https://img.shields.io/badge/Location-London%2C_UK-00247D.svg)](https://en.wikipedia.org/wiki/London)
 
 Data Analyst with over 6.5 years of experience at Numerator, a US consumer intelligence firm serving enterprise retail accounts. Experienced in building interactive Power BI dashboards (DAX, dimensional modelling), writing complex SQL (MySQL, PostgreSQL, CTEs, window functions), and automating operational data pipelines with Python. 
