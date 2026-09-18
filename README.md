@@ -97,9 +97,8 @@ A market analytics project examining wholesale electricity price behaviour acros
 
 ## Education & Certifications
 
-* **MSc in Data Science** | Coventry University, UK (2026)
+* **MSc in Data Science** | Coventry University, UK (2025)
   * *Coursework:* Statistical Modelling, Machine Learning, Predictive Analytics, Data Governance
-  * *Leadership:* Elected Course Representative for MSc Data Science cohort (2025–2026)
 * **BEng in Electrical Engineering** | Gujarat Technological University, India (2017)
 * **Google Data Analytics Professional Certificate**
 
