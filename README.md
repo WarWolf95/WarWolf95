@@ -6,6 +6,7 @@ Data Analyst & BI Developer based in London, United Kingdom.
 [![GitHub](https://img.shields.io/badge/GitHub-WarWolf95-181717?style=flat&logo=github)](https://github.com/WarWolf95)
 [![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-warwolf95.github.io-3B82F6?style=flat&logo=googlechrome&logoColor=white)](https://warwolf95.github.io)
 [![Location](https://img.shields.io/badge/Location-London%2C_UK-00247D.svg)](https://en.wikipedia.org/wiki/London)
+[![Email](https://img.shields.io/badge/Email-maulik.workstuff%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maulik.workstuff@gmail.com)
 
 Data Analyst with over 6.5 years of experience at Numerator, a US consumer intelligence firm serving enterprise retail accounts. Experienced in building interactive Power BI dashboards (DAX, dimensional modelling), writing complex SQL (MySQL, PostgreSQL, CTEs, window functions), and automating operational data pipelines with Python. 
 
@@ -117,7 +118,7 @@ A market analytics project examining wholesale electricity price behaviour acros
 
 * **Location:** London, United Kingdom
 * **GitHub:** [github.com/WarWolf95](https://github.com/WarWolf95)
-* **Email:** Available via CV / GitHub Profile
+* **Email:** [maulik.workstuff@gmail.com](mailto:maulik.workstuff@gmail.com)
 
 ---
 
