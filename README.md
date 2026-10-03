@@ -2,13 +2,12 @@
 
 Data Analyst & BI Developer based in London, United Kingdom.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-WarWolf95-181717?style=flat&logo=github)](https://github.com/WarWolf95)
 [![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-warwolf95.github.io-3B82F6?style=flat&logo=googlechrome&logoColor=white)](https://warwolf95.github.io)
 [![Location](https://img.shields.io/badge/Location-London%2C_UK-00247D.svg)](https://en.wikipedia.org/wiki/London)
 [![Email](https://img.shields.io/badge/Email-maulik.workstuff%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maulik.workstuff@gmail.com)
 
-Data Analyst with over 6.5 years of experience at Numerator, a US consumer intelligence firm serving enterprise retail accounts. Experienced in building interactive Power BI dashboards (DAX, dimensional modelling), writing complex SQL (MySQL, PostgreSQL, CTEs, window functions), and automating operational data pipelines with Python. 
+Data Analyst & BI Developer with over 6.5 years of commercial analytics experience across enterprise data platforms, business intelligence architecture, and client operations. Experienced in building interactive Power BI dashboards (DAX, dimensional modelling), writing complex SQL (MySQL, PostgreSQL, CTEs, window functions), and automating operational data pipelines with Python. 
 
 Recently completed an MSc in Data Science at Coventry University with applied project work in financial compliance, risk scoring, labour market intelligence, and time series forecasting.
 
@@ -25,19 +24,15 @@ Recently completed an MSc in Data Science at Coventry University with applied pr
 
 ---
 
-## Professional Experience
+## Enterprise Commercial Track Record
 
-### Data Associate Lead - Analytics & Client Operations | Numerator
-*April 2018 – November 2024*
-
-Numerator is a US-based consumer intelligence firm providing market data and retail analytics to enterprise brands.
-* **Workflow Automation:** Automated data processing tasks using Python scripts and scheduled MySQL queries, cutting turnaround times by 35% and enabling same-day reporting refreshes.
-* **BI Dashboard Development:** Built interactive Power BI dashboards with custom DAX calculations and dimensional models, delivering consumer purchasing insights that improved client contract retention by 12% across 15 enterprise retail accounts.
-* **Client & Incident Management:** Acted as the main technical contact for 15+ retail accounts, translating commercial questions into reporting requirements and managing data quality issues through JIRA and Salesforce (maintained 98%+ client satisfaction).
-* **Quality Assurance:** Standardised data verification checks across production workflows, reducing downstream reporting discrepancies by 15%.
-* **SQL Query Optimisation:** Tuned multi-table JOINs, indexing, and CTE structures across multi-million-row transactional tables, improving report query speeds by 30%.
-* **Team Coaching:** Mentored 4 junior analysts on SQL writing, dashboard design, and QA standards, helping increase overall team throughput by 25%.
-* **Recognition:** Awarded Star Performer, Spot Award, and High Impact Award for accuracy, work ethic, and leadership.
+* **Workflow Automation & ETL:** Engineered automated Python data pipelines and scheduled SQL transformation jobs, cutting reporting turnaround by 35% and enabling same-day reporting refreshes.
+* **BI Dashboard Engineering:** Architected interactive Star Schema Power BI models with advanced DAX calculations, delivering commercial and operational insights that lifted client contract retention by 12% across 15+ enterprise accounts.
+* **Stakeholder & SLA Delivery:** Acted as primary technical analytics contact across 15+ enterprise accounts, translating commercial briefs into functional reporting specifications and resolving data quality escalations (maintaining 98%+ stakeholder satisfaction).
+* **Data Quality Governance:** Standardised automated SQL validation checks and QA audit gates across multi-source client feeds, slashing downstream reporting discrepancies by 15%.
+* **SQL Query Optimization:** Tuned multi-table JOINs, indexing strategies, and CTE structures across multi-million-row relational tables, accelerating query execution speeds by 30%.
+* **Technical Mentorship:** Coached and mentored 4 junior analysts on advanced SQL query tuning, data modelling, and reporting quality standards, raising team analytical throughput by 25%.
+* **Professional Awards:** Received Star Performer, Spot Award, and High Impact Award for data precision, technical execution, and operational leadership.
 
 ---
 
